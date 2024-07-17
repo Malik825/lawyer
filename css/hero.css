@@ -1,0 +1,8 @@
+/* CSS Styles */
+
+.hero{
+  width: 90%;
+  background: red;
+  height: 800px;
+  position: absolute;
+}
